@@ -1,0 +1,111 @@
+{"frames": {
+
+"deco_calendar_01.png":
+{
+	"frame": {"x":0,"y":0,"w":404,"h":798},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":194,"y":0,"w":404,"h":798},
+	"sourceSize": {"w":800,"h":800},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"deco_calendar_02.png":
+{
+	"frame": {"x":0,"y":798,"w":404,"h":798},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":194,"y":0,"w":404,"h":798},
+	"sourceSize": {"w":800,"h":800},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"deco_calendar_03.png":
+{
+	"frame": {"x":404,"y":0,"w":404,"h":798},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":194,"y":0,"w":404,"h":798},
+	"sourceSize": {"w":800,"h":800},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"deco_calendar_04.png":
+{
+	"frame": {"x":798,"y":404,"w":404,"h":798},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":194,"y":0,"w":404,"h":798},
+	"sourceSize": {"w":800,"h":800},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"deco_calendar_05.png":
+{
+	"frame": {"x":0,"y":1202,"w":404,"h":798},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":194,"y":0,"w":404,"h":798},
+	"sourceSize": {"w":800,"h":800},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"deco_calendar_06.png":
+{
+	"frame": {"x":798,"y":1202,"w":404,"h":798},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":194,"y":0,"w":404,"h":798},
+	"sourceSize": {"w":800,"h":800},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"deco_calendar_07.png":
+{
+	"frame": {"x":1202,"y":0,"w":404,"h":798},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":194,"y":0,"w":404,"h":798},
+	"sourceSize": {"w":800,"h":800},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"deco_calendar_08.png":
+{
+	"frame": {"x":1202,"y":798,"w":404,"h":798},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":194,"y":0,"w":404,"h":798},
+	"sourceSize": {"w":800,"h":800},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"deco_calendar_09.png":
+{
+	"frame": {"x":1606,"y":0,"w":404,"h":798},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":194,"y":0,"w":404,"h":798},
+	"sourceSize": {"w":800,"h":800},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"deco_calendar_10.png":
+{
+	"frame": {"x":1596,"y":1202,"w":404,"h":798},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":194,"y":0,"w":404,"h":798},
+	"sourceSize": {"w":800,"h":800},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"deco_calendar_11.png":
+{
+	"frame": {"x":0,"y":1606,"w":404,"h":798},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":194,"y":0,"w":404,"h":798},
+	"sourceSize": {"w":800,"h":800},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "calendar.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "0.8",
+	"smartupdate": "$TexturePacker:SmartUpdate:aa2a533ac216f14d8317ec694653eda3:46dc53215af416dfd71d5acf34a95a73:137927624f858dc03193c74a9539e25a$"
+}
+}

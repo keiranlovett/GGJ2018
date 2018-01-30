@@ -1,0 +1,48 @@
+{"frames": {
+
+"deco_photo_01.png":
+{
+	"frame": {"x":1,"y":1,"w":345,"h":512},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":345,"h":512},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"deco_photo_02.png":
+{
+	"frame": {"x":1,"y":515,"w":345,"h":512},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":345,"h":512},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"deco_photo_03.png":
+{
+	"frame": {"x":348,"y":1,"w":345,"h":512},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":345,"h":512},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"deco_photo_04.png":
+{
+	"frame": {"x":515,"y":348,"w":345,"h":512},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":0,"w":345,"h":512},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "photo.png",
+	"format": "RGBA8888",
+	"size": {"w":861,"h":861},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8f4af25ba9b313b915f3df90c526df85:ea101e72fe958662ee7e1a2e35b06b32:47545a383e798a39f4dc9d9405af6293$"
+}
+}
